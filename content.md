@@ -8,3 +8,5 @@ six-years-old. My memories of my short childhood in China are very hazy. I mostl
 remember growing up here in Chicago! I went to elementary, middle, and high school
 here in Chicago and figured I should probably do the same for college as well.
 That's how I ended up here at IIT!
+
+In terms of ambitions, I would say I had lots of them growing up.
