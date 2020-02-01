@@ -15,14 +15,31 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 html {
   font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
   font-size: 1.125em; /* 18px / 16px = 1.125em */
-  line-height: 1.2222222222em; /* 22px / 18px = 1.2222222222em */
   padding: 1.2222222222em 1.8333333333em; /* 33px / 18px = 1.8333333333em */
+}
+
+h1,
+h2 {
+  font-family: "Abril Fatface", cursive;
+}
+
+h1 {
+  font-size: 1.953em; /* 35.156px / 18px = 1.953em */
+  line-height: 1.563em;
+}
+
+h2 {
+  font-size: 1.563em;
 }
 
 h1,
 h2,
 p {
   padding-bottom: 1.2222222222em; /* 22px / 18px = 1.2222222222 */
+}
+
+body {
+  line-height: 1.2222222222em; /* 22px / 18px = 1.2222222222em */
 }
 
 /* Show Gridlines... */
