@@ -12,17 +12,12 @@ html {
   line-height: 1.2222222222em; /* 22px / 18px = 1.2222222222 */
 }
 
-/*
-h1 {
-  font-size: 1.5em;
-  padding-bottom: 0.5em;
-  padding-top: 0.5em;
-}
-
+h1,
+h2,
 p {
   padding-bottom: 0.5em;
 }
-*/
+
 
 /* Show Gridlines... */
 
