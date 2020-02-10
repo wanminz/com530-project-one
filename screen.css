@@ -23,6 +23,12 @@ h2 {
   font-family: "Abril Fatface", Garamond, Georgia, serif;
 }
 
+h1 {
+  font-size: 1.953125em; /* 35.15625px / 18px = 1.953125em */
+  line-height: 1.2515555556em; /* 44px / 35.15625px = 1.2515555556em */
+  padding-bottom: 0.6111111111em; /* 11px / 18px = 0.6111111111em */
+}
+
 /* Show Gridlines... */
 
 /**
