@@ -35,7 +35,12 @@ h2 {
 }
 
 p {
-  padding-bottom: 0.6111111111em; /* 11px/ 18px = 0.6111111111em */
+  padding-bottom: 0.6111111111em; /* 11px / 18px = 0.6111111111em */
+}
+
+.copyright {
+  font-size: 0.8em; /* 14.4px / 18px = 0.8em */
+  padding-top: 1.2222222222em; /* 22px / 18px = 1.2222222222em */
 }
 
 /* Show Gridlines... */
