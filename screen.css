@@ -16,7 +16,7 @@ html {
   font-size: 1.125em; /* 18px / 16px = 1.125em */
   line-height: 1.2222222222em; /* 22px / 18px = 1.2222222222em */
   padding: 1.2222222222em 1.8333333333em; /* 33px / 18px = 1.8333333333em */
-  text-rendering: optimizedLegibility;
+  text-rendering: optimizeLegibility;
   -webkit-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
