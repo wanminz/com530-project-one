@@ -12,6 +12,8 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 */
 
 html {
+  background-color: #8CADA6;
+  color: #FAE9E3;
   font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
   font-size: 1.125em; /* 18px / 16px = 1.125em */
   line-height: 1.2222222222em; /* 22px / 18px = 1.2222222222em */
@@ -35,6 +37,7 @@ h1 {
 }
 
 h2 {
+  color: #E3FAF5;
   font-size: 1.5625em; /* 28.125px / 18px = 1.5625em */
   line-height: 1.4222222222em; /* 40px / 18px = 1.4222222222em */
 }
